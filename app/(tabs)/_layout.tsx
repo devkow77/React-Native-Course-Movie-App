@@ -37,7 +37,7 @@ const _layout = () => {
           alignItems: "center",
         },
         tabBarStyle: {
-          backgroundColor: "#0F0D23",
+          backgroundColor: "#221F3D",
           borderRadius: 50,
           marginHorizontal: 20,
           marginBottom: 36,
